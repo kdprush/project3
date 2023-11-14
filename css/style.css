@@ -328,8 +328,7 @@ table {
 }
 /* style for map*/
 #border {
-    width: 850px;
-    height: 600px;
+    width: 750px;
     background-color: rgb(87, 0, 128);
     margin: 0 auto;
     overflow: hidden;
