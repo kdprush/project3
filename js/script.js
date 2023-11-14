@@ -19,7 +19,7 @@ function init(){
 		icon: 'media/OPAnimalCareLeague.jpg'
 	});
 
-	var contentString = '<h1>Oak Park Animal Care League</p>';
+	var contentString = '<h1>Oak Park Animal Care League</h1>';
 
 	var infowindow = new google.maps.InfoWindow({
       content: contentString
