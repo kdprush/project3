@@ -322,3 +322,17 @@ table {
     margin-right: auto;
 
 }
+/* style for map*/
+#border {
+    width: 850px;
+    height: 600px;
+    background-color: #2CD344;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  #frame {
+    width: 700px;
+    height: 500px;
+    background-color: #ccc;
+    margin: 30px auto;
+  }
