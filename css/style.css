@@ -326,7 +326,8 @@ table {
     margin-right: auto;
 
 }
-/* style for map*/
+/* style for map
+/*=========================================*/
 #border {
     width: 750px;
     background-color: rgb(87, 0, 128);
@@ -339,3 +340,11 @@ table {
     background-color: rgb(0, 0, 0);
     margin: 30px auto;
   }
+/* responsive media queries
+/*=========================================*/
+  @media (min-width: 475px) {}
+  @media (min-width: 640px) {}
+  @media (min-width: 768) {}
+  @media (min-width: 1024px) {}
+  @media (min-width: 1280px) {}
+  @media (min-width: 1536px) {}
