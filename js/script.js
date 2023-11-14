@@ -16,7 +16,7 @@ function init(){
 		position: myLocation,
 		map: myMap,
 		animation: google.maps.Animation.DROP,
-		icon: 'images/Toucan_Belize.jpg'
+		icon: 'images/.jpg'
 	});
 
 	var contentString = '<h1>Oak Park Animal Care League</p>';
