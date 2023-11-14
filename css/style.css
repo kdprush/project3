@@ -224,6 +224,10 @@ a:hover {
     text-decoration: none;
 }
 
+#showmap {
+    text-decoration: none;
+    color: white;
+  }
 .center {
     display: block;
     margin-left: auto;
