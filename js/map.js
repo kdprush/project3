@@ -19,7 +19,7 @@ function init(){
 		icon: 'media/OPAnimalCareLeague.jpg'
 	});
 
-	var contentString = '<p>This is the place where I adopted Spunk and Chester. 1011 Garfield St, Oak Park, IL 60304. Ask for Liz, the Bunny Lady.</p>';
+	var contentString = '<h1>Oak Park Animal Care League</h1><p>This is the place where I adopted Spunk and Chester. 1011 Garfield St, Oak Park, IL 60304. Ask for Liz, the Bunny Lady.</p>';
 
 	var infowindow = new google.maps.InfoWindow({
       content: contentString
